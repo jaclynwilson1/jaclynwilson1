@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jaclynwilson1
-- 👀 I’m a senior at Tulane University majoring in Math and Computer Science with a minor in School of Liberal Arts in Management. I expect to graduate May 2022.
-- 🌱 I’m currently taking a Capstone course and a course in Data Science.
-- 💞️ I’m looking to work on
+- 👋 Hi, I’m Jaclyn Wilson
+- 👀 I am a recent graduate from Tulane University with a B.S. in Mathematics and Computer Science and a minor in Management.
+- 🌱 I’m currently a software engineer at Booz Allen Hamilton
 - 📫 How to reach me wilsonjaclync@gmail.com
 
 <!---
